@@ -3,7 +3,16 @@
 @import "mixins";
 
 .section-navbar {
-  height: 5rem;
+  background: $gray-color;
+  height: 3.8rem;
+  padding-top: 1rem;
+
+  .navbar-brand {
+    color: $primary-color;
+    font-weight: 700;
+    height: 1.8rem;
+    line-height: 1.8rem;
+  }
 }
 
 .section-games {

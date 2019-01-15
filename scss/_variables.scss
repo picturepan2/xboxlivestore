@@ -2,14 +2,14 @@
 $primary-color: #007F00 !default;
 $primary-color-dark: darken($primary-color, 3%) !default;
 $primary-color-light: lighten($primary-color, 3%) !default;
-$secondary-color: lighten($primary-color, 47.5%) !default;
+$secondary-color: lighten($primary-color, 72.5%) !default;
 $secondary-color-dark: darken($secondary-color, 3%) !default;
 $secondary-color-light: lighten($secondary-color, 3%) !default;
 
 // Gray colors
 $dark-color: #202020 !default;
 $light-color: #fff !default;
-$gray-color: lighten($dark-color, 65%) !default;
+$gray-color: lighten($dark-color, 85%) !default;
 $gray-color-dark: darken($gray-color, 25%) !default;
 $gray-color-light: lighten($gray-color, 10%) !default;
 

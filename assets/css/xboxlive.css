@@ -1,5 +1,14 @@
 .section-navbar {
-  height: 5rem;
+  background: #f9f9f9;
+  height: 3.8rem;
+  padding-top: 1rem;
+}
+
+.section-navbar .navbar-brand {
+  color: #007f00;
+  font-weight: 700;
+  height: 1.8rem;
+  line-height: 1.8rem;
 }
 
 .section-games .column {
