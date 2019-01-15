@@ -1,0 +1,55 @@
+include _mixins.pug
+
+block global
+  - var domain = 'https://xboxlive.store'
+  - var url = domain
+
+block variables
+  - var slug = ''
+  - var parent = ''
+  - var title = 'Xbox Deals & Sales'
+  - var description = '.'
+
+if slug == parent
+  if slug == 'index'
+    - var url = domain 
+  else
+    - var url = domain + slug + '.html'
+else 
+  - var url = domain + parent + '/' + slug + '.html'
+
+doctype html
+html(lang='en')
+  head
+    title= title
+    meta(charset='utf-8')
+    meta(name='robots' content='index, follow')
+    meta(name='viewport' content='width=device-width, initial-scale=1.0, shrink-to-fit=no')
+    meta(http-equiv='x-ua-compatible' content='ie=edge')
+    meta(name='description' content= description)
+    meta(name='author' content='@xbox')
+    meta(property='og:url' content= url)
+    meta(property='og:title' content= title)
+    meta(property='og:description' content= description)
+    meta(name='twitter:card' content='summary')
+    meta(name='twitter:creator' content='@xbox')
+    if slug != parent
+      link(rel='stylesheet' href='../assets/css/spectre.min.css')
+      link(rel='stylesheet' href='../assets/css/xboxlive.min.css')
+    else
+      link(rel='stylesheet' href='assets/css/spectre.min.css')
+      link(rel='stylesheet' href='assets/css/xboxlive.min.css')
+    link(rel='canonical' href= url)
+    
+  body
+    block content
+
+    script(async="" src="https://www.googletagmanager.com/gtag/js?id=UA-2702768-14")
+    script.
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-2702768-14');
+
+
+  

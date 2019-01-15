@@ -1,0 +1,21 @@
+mixin game-card(url, name, cover, newprice, oriprice, discount)
+  .column.col-2.col-lg-3.col-md-6.col-sm-12
+    a.card(href='https://microsoft.msafflnk.net/c/1272791/433017/7593?u='+url, title=name, target='_blank')
+      .card-header
+        img.game-card-cover.img-responsive(src=cover alt=name)
+      .card-body
+        .game-card-discount
+          | #{discount}
+        h3.game-card-title
+          | #{name}
+      .card-footer
+        .game-card-newprice
+          | #{newprice}
+        .game-card-oriprice
+          | #{oriprice}
+
+mixin section-heading(id, name)
+  .container.text-center(id=id)
+    h2.x-title
+      | #{name}
+      a.anchor(href='#'+id aria-hidden='true') #

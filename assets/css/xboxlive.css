@@ -1,0 +1,96 @@
+.section-navbar {
+  height: 5rem;
+}
+
+.section-games .column {
+  padding-bottom: .4rem;
+  padding-top: .4rem;
+}
+
+.section-games .card {
+  border: .1rem solid transparent;
+  height: 100%;
+  text-decoration: none;
+  transform: all .25s ease;
+}
+
+.section-games .card:hover {
+  animation: reveal-focus 1s 1;
+  background: #f1f1f1;
+  border-color: #202020;
+  box-shadow: 0 .1rem 1.2rem rgba(0, 0, 0, .15);
+}
+
+.section-games .card .card-header {
+  padding: .4rem;
+  padding-bottom: 0;
+}
+
+.section-games .card .card-body {
+  padding: .4rem;
+  padding-bottom: 0;
+}
+
+.section-games .card .card-footer {
+  padding: .4rem;
+}
+
+.section-games .game-card-cover {
+  box-shadow: 0 .1rem 1.5rem rgba(0, 0, 0, .15);
+}
+
+.section-games .game-card-discount {
+  background: #ffd800;
+  color: #202020;
+  display: inline-block;
+  font-size: .6rem;
+  line-height: 1;
+  padding: .1rem .2rem;
+  text-transform: uppercase;
+}
+
+.section-games .game-card-title {
+  color: #202020;
+  font-size: .8rem;
+  font-weight: 700;
+  line-height: .85rem;
+  margin-top: .2rem;
+}
+
+.section-games .game-card-newprice {
+  color: #007f00;
+  display: inline;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.section-games .game-card-oriprice {
+  color: #202020;
+  display: inline;
+  font-size: .7rem;
+  text-decoration: line-through;
+}
+
+.x-title {
+  padding: 1rem 0;
+}
+
+.x-title .anchor {
+  color: #007f00;
+  font-size: 85%;
+  margin-left: .2rem;
+  padding: 0 .2rem;
+  text-decoration: none;
+}
+
+@keyframes reveal-focus {
+  0% {
+    box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+  }
+  25% {
+    box-shadow: 0 .1rem 2.5rem rgba(0, 0, 0, .25);
+  }
+  100% {
+    box-shadow: 0 .1rem 1.5rem rgba(0, 0, 0, .15);
+  }
+}
