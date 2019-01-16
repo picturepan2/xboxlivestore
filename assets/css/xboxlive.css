@@ -2,6 +2,7 @@
   background: #f9f9f9;
   box-shadow: 0 .1rem 1rem rgba(32, 32, 32, .075);
   height: 3.8rem;
+  letter-spacing: -.025rem;
   padding-top: 1rem;
   position: fixed;
   top: 0;
