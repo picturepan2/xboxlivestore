@@ -6,6 +6,9 @@
   background: $gray-color;
   height: 3.8rem;
   padding-top: 1rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
 
   .navbar-section {
     padding-left: .4rem;
@@ -21,6 +24,9 @@
 }
 
 .section-games {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+
   .column {
     padding-bottom: .4rem;
     padding-top: .4rem;
@@ -91,10 +97,18 @@
 }
 
 .x-title {
-  padding: 1rem 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  height: 1.8rem;
+  line-height: 1.8rem;
+  margin: 1rem auto;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+
   .anchor {
     color: $primary-color;
-    font-size: 85%;
+    font-weight: 400;
     margin-left: .2rem;
     padding: 0 .2rem;
     text-decoration: none;

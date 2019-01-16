@@ -2,6 +2,9 @@
   background: #f9f9f9;
   height: 3.8rem;
   padding-top: 1rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 .section-navbar .navbar-section {
@@ -14,6 +17,11 @@
   font-weight: 700;
   height: 1.8rem;
   line-height: 1.8rem;
+}
+
+.section-games {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
 }
 
 .section-games .column {
@@ -86,12 +94,20 @@
 }
 
 .x-title {
-  padding: 1rem 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  height: 1.8rem;
+  line-height: 1.8rem;
+  margin: 1rem auto;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  z-index: 99;
 }
 
 .x-title .anchor {
   color: #007f00;
-  font-size: 85%;
+  font-weight: 400;
   margin-left: .2rem;
   padding: 0 .2rem;
   text-decoration: none;
