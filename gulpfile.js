@@ -13,8 +13,8 @@ var paths = {
 };
 
 gulp.task('watch', function() {
-  gulp.watch(paths.scss, ['build']);
-  gulp.watch(paths.pug, ['web']);
+  gulp.watch('./**/*.scss', ['build']);
+  gulp.watch('./**/*.pug', ['web']);
 });
 
 gulp.task('build', function() {

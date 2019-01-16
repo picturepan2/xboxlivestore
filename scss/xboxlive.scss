@@ -7,6 +7,11 @@
   height: 3.8rem;
   padding-top: 1rem;
 
+  .navbar-section {
+    padding-left: .4rem;
+    padding-right: .4rem;
+  }
+
   .navbar-brand {
     color: $primary-color;
     font-weight: 700;
@@ -94,6 +99,11 @@
     padding: 0 .2rem;
     text-decoration: none;
   }
+}
+
+.x-footer {
+  padding-left: .8rem;
+  padding-right: .8rem;
 }
 
 // Animations

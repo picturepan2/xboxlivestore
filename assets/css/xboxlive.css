@@ -4,6 +4,11 @@
   padding-top: 1rem;
 }
 
+.section-navbar .navbar-section {
+  padding-left: .4rem;
+  padding-right: .4rem;
+}
+
 .section-navbar .navbar-brand {
   color: #007f00;
   font-weight: 700;
@@ -90,6 +95,11 @@
   margin-left: .2rem;
   padding: 0 .2rem;
   text-decoration: none;
+}
+
+.x-footer {
+  padding-left: .8rem;
+  padding-right: .8rem;
 }
 
 @keyframes reveal-focus {
