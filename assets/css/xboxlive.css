@@ -1,10 +1,12 @@
 .section-navbar {
   background: #f9f9f9;
+  box-shadow: 0 .1rem 1rem rgba(32, 32, 32, .075);
   height: 3.8rem;
   padding-top: 1rem;
   position: fixed;
   top: 0;
   width: 100%;
+  z-index: 49;
 }
 
 .section-navbar .navbar-section {
@@ -17,6 +19,23 @@
   font-weight: 700;
   height: 1.8rem;
   line-height: 1.8rem;
+}
+
+.section-navbar .btn-link {
+  border: 0;
+  border-bottom: .1rem solid transparent;
+  border-radius: 0;
+  margin-left: .4rem;
+  margin-right: .4rem;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.section-navbar .btn-link:active,
+.section-navbar .btn-link:focus {
+  border-color: #007f00;
+  box-shadow: none;
+  color: #007f00;
 }
 
 .section-games {
@@ -40,7 +59,7 @@
   animation: reveal-focus 1s 1;
   background: #f1f1f1;
   border-color: #202020;
-  box-shadow: 0 .1rem 1.2rem rgba(0, 0, 0, .15);
+  box-shadow: 0 .1rem 1.2rem rgba(32, 32, 32, .15);
 }
 
 .section-games .card .card-header {
@@ -58,7 +77,7 @@
 }
 
 .section-games .game-card-cover {
-  box-shadow: 0 .1rem 1.5rem rgba(0, 0, 0, .15);
+  box-shadow: 0 .1rem 1.5rem rgba(32, 32, 32, .15);
 }
 
 .section-games .game-card-discount {
@@ -98,10 +117,7 @@
   font-weight: 700;
   height: 1.8rem;
   line-height: 1.8rem;
-  margin: 1rem auto;
-  position: sticky;
-  position: -webkit-sticky;
-  top: 0;
+  padding: 4.8rem 0 2rem 0;
   z-index: 99;
 }
 
@@ -120,12 +136,12 @@
 
 @keyframes reveal-focus {
   0% {
-    box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+    box-shadow: 0 0 0 rgba(32, 32, 32, .15);
   }
   25% {
-    box-shadow: 0 .1rem 2.5rem rgba(0, 0, 0, .25);
+    box-shadow: 0 .1rem 2.5rem rgba(32, 32, 32, .25);
   }
   100% {
-    box-shadow: 0 .1rem 1.5rem rgba(0, 0, 0, .15);
+    box-shadow: 0 .1rem 1.5rem rgba(32, 32, 32, .15);
   }
 }
