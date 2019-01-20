@@ -40,7 +40,8 @@ gulp.task('web', function() {
     .pipe(data(function(file) {
       return {
         "dwg": require('./data/dwg.json'),
-        "spotlight": require('./data/spotlight.json')
+        "spotlight": require('./data/spotlight.json'),
+        "newreleases": require('./data/newreleases.json')
       }
     }))
     .pipe(pug({

@@ -65,6 +65,13 @@
       box-shadow: 0 .1rem 1.2rem rgba($dark-color, .15);
     }
 
+    &.card-empty {
+      align-items: center;
+      background: #F1F1F1;
+      display: flex;
+      justify-content: center;
+    }
+
     .card-header {
       padding: .4rem;
       padding-bottom: 0;
@@ -109,7 +116,7 @@
     font-size: 1rem;
     font-weight: 700;
 
-    &::before {
+    &:not(:empty)::before {
       content: "$";
     }
   }
@@ -120,7 +127,7 @@
     font-size: .7rem;
     text-decoration: line-through;
 
-    &::before {
+    &:not(:empty)::before {
       content: "$";
     }
   }

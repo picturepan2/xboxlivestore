@@ -1,0 +1,24 @@
+extends _layout/_layout.pug
+
+block variables
+  - var slug = 'new-releases'
+  - var parent = 'index'
+  - var title = 'Xbox New Releases - Xbox Deals & Sales - Xbox One Games, Xbox Live Gold'
+  - var description = 'Xbox Deals With Gold And Spotlight Sale Plus Publisher Sale'
+
+block content
+  .section-navbar
+    .container.grid-xl
+      include _layout/_header.pug
+
+  .section.section-games
+    .container.grid-xl
+      include _layout/_ad-g.pug
+
+  .section.section-games
+    .container.grid-xl
+      .columns
+        include _content/_newreleases.pug
+
+  footer.section.section-footer
+    include _layout/_footer.pug

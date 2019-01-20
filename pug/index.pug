@@ -19,6 +19,10 @@ block content
     .container.grid-xl
       .columns
         include _content/_dwg.pug
+        .column.col-2.col-lg-3.col-md-6
+          a.card.card-empty(href='deals-with-gold.html')
+            .game-card-title
+              | SHOW ALL
 
   .section.section-games
     .container.grid-xl
@@ -28,6 +32,19 @@ block content
     .container.grid-xl
       .columns
         include _content/_spotlight-sale.pug
+        .column.col-2.col-lg-3.col-md-6
+          a.card.card-empty(href='spotlight-sale.html')
+            .game-card-title
+              | SHOW ALL
+
+  .section.section-games
+    .container.grid-xl
+      .columns
+        include _content/_newreleases.pug
+        .column.col-2.col-lg-3.col-md-6
+          a.card.card-empty(href='new-releases.html')
+            .game-card-title
+              | SHOW ALL
 
   footer.section.section-footer
     include _layout/_footer.pug

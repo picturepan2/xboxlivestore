@@ -64,6 +64,16 @@
   box-shadow: 0 .1rem 1.2rem rgba(32, 32, 32, .15);
 }
 
+.section-games .card.card-empty {
+  align-items: center;
+  background: #f1f1f1;
+  display: flex;
+  display: -ms-flexbox;
+  -ms-flex-align: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
 .section-games .card .card-header {
   padding: .4rem;
   padding-bottom: 0;
@@ -108,7 +118,7 @@
   font-weight: 700;
 }
 
-.section-games .game-card-newprice::before {
+.section-games .game-card-newprice:not(:empty)::before {
   content: "$";
 }
 
@@ -119,7 +129,7 @@
   text-decoration: line-through;
 }
 
-.section-games .game-card-oriprice::before {
+.section-games .game-card-oriprice:not(:empty)::before {
   content: "$";
 }
 

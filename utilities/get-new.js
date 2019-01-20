@@ -6,7 +6,7 @@ const fs = require('fs');
 async function run() {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  await page.goto('https://www.xbox.com/en-US/games/xbox-one?cat=onsale', {
+  await page.goto('https://www.xbox.com/en-US/games/xbox-one?cat=newreleases', {
     waitUntil: 'networkidle0',
     timeout: 300000
   });
@@ -25,6 +25,9 @@ async function run() {
     var oriprice = a.children('div').children('.c-price').children('s').text();
       oriprice = oriprice.replace(/[^\d.]/g,'');
     var discount = Math.round((oriprice - newprice) * 100 / oriprice) + '% OFF';
+    if (!isNaN(newprice) || !isNaN(oriprice)) {
+      discount = 'New';
+    };
     
     var metadata = {
       url: url,
@@ -38,7 +41,7 @@ async function run() {
   });
 
   let data = JSON.stringify(parsedResults);
-  fs.writeFileSync('./data/spotlight.json', data, (err) => {  
+  fs.writeFileSync('./data/newreleases.json', data, (err) => {  
     if (err) throw err;
   });
 
