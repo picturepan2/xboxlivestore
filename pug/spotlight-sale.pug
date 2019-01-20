@@ -1,24 +1,15 @@
 extends _layout/_layout.pug
 
 block variables
-  - var slug = 'index'
+  - var slug = 'spotlight-sale'
   - var parent = 'index'
-  - var title = 'Xbox Deals & Sales - Xbox One Games, Xbox Live Gold'
+  - var title = 'Xbox Spotlight Sale - Xbox Deals & Sales - Xbox One Games, Xbox Live Gold'
   - var description = 'Xbox Deals With Gold And Spotlight Sale Plus Publisher Sale'
 
 block content
   .section-navbar
     .container.grid-xl
       include _layout/_header.pug
-
-  .section.section-games
-    .container.grid-xl
-      include _layout/_ad-g.pug
-
-  .section.section-games
-    .container.grid-xl
-      .columns
-        include _content/_dwg.pug
 
   .section.section-games
     .container.grid-xl

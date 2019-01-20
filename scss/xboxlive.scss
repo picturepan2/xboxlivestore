@@ -34,6 +34,7 @@
     padding-left: 0;
     padding-right: 0;
 
+    &.active,
     &:active,
     &:focus {
       box-shadow: none;
@@ -81,6 +82,7 @@
 
   .game-card-cover {
     box-shadow: 0 .1rem 1.5rem rgba($dark-color, .15);
+    width: 100%;
   }
 
   .game-card-discount {
@@ -106,6 +108,10 @@
     display: inline;
     font-size: 1rem;
     font-weight: 700;
+
+    &::before {
+      content: "$";
+    }
   }
 
   .game-card-oriprice {
@@ -113,6 +119,10 @@
     display: inline;
     font-size: .7rem;
     text-decoration: line-through;
+
+    &::before {
+      content: "$";
+    }
   }
 }
 

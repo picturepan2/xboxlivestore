@@ -5,7 +5,9 @@ var csscomb = require('gulp-csscomb');
 var rename = require('gulp-rename');
 var autoprefixer = require('gulp-autoprefixer');
 var pug = require('gulp-pug');
+var data = require('gulp-data');
 var plumber = require('gulp-plumber');
+var fs = require('fs');
 
 var paths = {
   scss: './scss/*.scss',
@@ -35,6 +37,12 @@ gulp.task('build', function() {
 gulp.task('web', function() {
   gulp.src(paths.pug)
     .pipe(plumber())
+    .pipe(data(function(file) {
+      return {
+        "dwg": require('./data/dwg.json'),
+        "spotlight": require('./data/spotlight.json')
+      }
+    }))
     .pipe(pug({
       pretty: true
     }))

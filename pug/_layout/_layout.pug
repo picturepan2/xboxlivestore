@@ -10,11 +10,11 @@ block variables
   - var title = 'Xbox Deals & Sales'
   - var description = '.'
 
-if slug == parent
+if parent = 'index'
   if slug == 'index'
     - var url = domain 
   else
-    - var url = domain + slug + '.html'
+    - var url = domain + '/' + slug + '.html'
 else 
   - var url = domain + parent + '/' + slug + '.html'
 
@@ -34,19 +34,13 @@ html(lang='en')
     meta(name='twitter:card' content='summary')
     meta(name='twitter:creator' content='@xbox')
     meta(name='google-site-verification' content='gIZqjiuMu10mICrN-O61fiRck7FrBdQGxel7iOzhbfc')
-    if slug != parent
-      link(rel='stylesheet' href='../assets/css/spectre.min.css')
-      link(rel='stylesheet' href='../assets/css/xboxlive.min.css')
-    else
+    if parent = 'index'
       link(rel='stylesheet' href='assets/css/spectre.min.css')
       link(rel='stylesheet' href='assets/css/xboxlive.min.css')
+    else
+      link(rel='stylesheet' href='../assets/css/spectre.min.css')
+      link(rel='stylesheet' href='../assets/css/xboxlive.min.css')
     link(rel='canonical' href= url)
-    script(async='', src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
-    script.
-      (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-2225124559530218",
-        enable_page_level_ads: true
-      });
     
   body
     block content

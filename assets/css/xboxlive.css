@@ -32,6 +32,7 @@
   padding-right: 0;
 }
 
+.section-navbar .btn-link.active,
 .section-navbar .btn-link:active,
 .section-navbar .btn-link:focus {
   border-color: #007f00;
@@ -79,6 +80,7 @@
 
 .section-games .game-card-cover {
   box-shadow: 0 .1rem 1.5rem rgba(32, 32, 32, .15);
+  width: 100%;
 }
 
 .section-games .game-card-discount {
@@ -106,11 +108,19 @@
   font-weight: 700;
 }
 
+.section-games .game-card-newprice::before {
+  content: "$";
+}
+
 .section-games .game-card-oriprice {
   color: #202020;
   display: inline;
   font-size: .7rem;
   text-decoration: line-through;
+}
+
+.section-games .game-card-oriprice::before {
+  content: "$";
 }
 
 .x-title {
