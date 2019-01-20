@@ -37,7 +37,6 @@ async function run() {
       oriprice: oriprice,
       discount: discount
     };
-    console.log(metadata);
     parsedResults.push(metadata);
   });
 
@@ -47,7 +46,7 @@ async function run() {
     });
 
   browser.close();
-  console.log("DONE");
+  console.log("DWG DONE");
 }
 
 run();

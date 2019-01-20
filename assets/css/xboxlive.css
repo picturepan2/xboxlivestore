@@ -138,8 +138,7 @@
   font-weight: 700;
   height: 1.8rem;
   line-height: 1.8rem;
-  padding: 4.8rem 0 2rem 0;
-  z-index: 99;
+  padding: 2rem .4rem;
 }
 
 .x-title .anchor {

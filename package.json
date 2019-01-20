@@ -12,6 +12,9 @@
   "bugs": {
     "url": "https://github.com/picturepan2/xboxlivestore/issues"
   },
+  "scripts": {
+    "update": "node utilities/get-dwg.js && node utilities/get-spotlight.js && node utilities/get-new.js && gulp web"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "latest",

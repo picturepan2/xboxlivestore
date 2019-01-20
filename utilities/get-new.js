@@ -46,7 +46,7 @@ async function run() {
   });
 
   browser.close();
-  console.log("DONE");
+  console.log("NEW DONE");
 }
 
 run();

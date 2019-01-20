@@ -43,7 +43,7 @@ async function run() {
   });
 
   browser.close();
-  console.log("DONE");
+  console.log("SPOTLIGHT DONE");
 }
 
 run();
