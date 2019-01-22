@@ -1,0 +1,29 @@
+extends _layout/_layout.pug
+
+block variables
+  - var slug = 'embed'
+  - var parent = 'index'
+  - var title = 'Xbox Deals & Sales - Xbox One Game Store, Xbox Live Gold'
+  - var description = 'Xbox Deals With Gold And Spotlight Sale Plus Publisher Sale.'
+
+block content
+  .section.section-games
+    .container.grid-xl
+      +section-heading('deals-with-gold', 'Deals with Gold')
+      .columns
+        include _content/_dwg.pug
+
+  .section.section-games
+    .container.grid-xl
+      +section-heading('spotlight-sale', 'Spotlight Sale')
+      .columns
+        include _content/_spotlight-sale.pug
+  
+  .section.section-ads
+
+  footer.section.section-embed-footer
+    | Last update: 
+    span.ml-1.mr-2 #{today}
+    | | Powered by 
+    a(href=domain, target='_blank') Xbox Deals & Sales
+    

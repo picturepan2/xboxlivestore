@@ -135,7 +135,24 @@
 
 .section-ads {
   margin: 2rem auto;
-  min-height: 3.8rem;
+}
+
+.section-embed-footer {
+  background: $primary-color;
+  bottom: 0;
+  color: rgba($light-color, .5);
+  font-size: .6rem;
+  height: 1.2rem;
+  line-height: 1.2rem;
+  padding-right: .8rem;
+  position: fixed;
+  text-align: right;
+  width: 100%;
+
+  a {
+    color: rgba($light-color, .75);
+    text-decoration: underline;
+  }
 }
 
 .x-title {
@@ -155,6 +172,7 @@
 }
 
 .x-footer {
+  box-shadow: 0 -.1rem 1rem rgba($dark-color, .075);
   padding-left: .8rem;
   padding-right: .8rem;
 }
