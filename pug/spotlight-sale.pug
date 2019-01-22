@@ -21,6 +21,14 @@ block content
       .columns
         include _content/_spotlight-sale.pug
 
+  .section.section-share#share
+    .container.grid-xl
+      h2.x-title Embed
+      .columns
+        .column
+          textarea.form-input(name='embed', rows='3')
+            <iframe src="https://xboxlive.store/embed.html" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0"><a href="https://xboxlive.store" target="_blank">Xbox Deals & Sales</a></iframe>
+
   .section.section-ads
     .container.grid-xl
       include _layout/_ad-p.pug

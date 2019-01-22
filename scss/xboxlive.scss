@@ -137,9 +137,14 @@
   margin: 2rem auto;
 }
 
+.section-share {
+  
+}
+
 .section-embed-footer {
   background: $primary-color;
   bottom: 0;
+  box-shadow: 0 -.1rem 1rem rgba($dark-color, .1);
   color: rgba($light-color, .5);
   font-size: .6rem;
   height: 1.2rem;
@@ -172,7 +177,6 @@
 }
 
 .x-footer {
-  box-shadow: 0 -.1rem 1rem rgba($dark-color, .075);
   padding-left: .8rem;
   padding-right: .8rem;
 }

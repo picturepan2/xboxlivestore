@@ -140,6 +140,7 @@
 .section-embed-footer {
   background: #007f00;
   bottom: 0;
+  box-shadow: 0 -.1rem 1rem rgba(32, 32, 32, .1);
   color: rgba(255, 255, 255, .5);
   font-size: .6rem;
   height: 1.2rem;
@@ -172,7 +173,6 @@
 }
 
 .x-footer {
-  box-shadow: 0 -.1rem 1rem rgba(32, 32, 32, .075);
   padding-left: .8rem;
   padding-right: .8rem;
 }
