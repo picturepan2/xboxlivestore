@@ -18,6 +18,9 @@ if parent = 'index'
 else 
   - var url = domain + parent + '/' + slug + '.html'
 
+- var date = new Date();
+- var today = date.getFullYear() + "/" + (date.getMonth() + 1) + "/" + date.getDate();
+
 doctype html
 html(lang='en')
   head

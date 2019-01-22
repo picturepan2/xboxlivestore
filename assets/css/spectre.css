@@ -1468,7 +1468,8 @@ video.video-responsive::before {
 .column.col-4,
 .column.col-3,
 .column.col-2,
-.column.col-1 {
+.column.col-1,
+.column.col-auto {
   -ms-flex: none;
   flex: none;
 }
@@ -1553,7 +1554,8 @@ video.video-responsive::before {
   .col-xl-4,
   .col-xl-3,
   .col-xl-2,
-  .col-xl-1 {
+  .col-xl-1,
+  .col-xl-auto {
     -ms-flex: none;
     flex: none;
   }
@@ -1593,6 +1595,9 @@ video.video-responsive::before {
   .col-xl-1 {
     width: 8.33333333%;
   }
+  .col-xl-auto {
+    width: auto;
+  }
   .hide-xl {
     display: none !important;
   }
@@ -1613,7 +1618,8 @@ video.video-responsive::before {
   .col-lg-4,
   .col-lg-3,
   .col-lg-2,
-  .col-lg-1 {
+  .col-lg-1,
+  .col-lg-auto {
     -ms-flex: none;
     flex: none;
   }
@@ -1653,6 +1659,9 @@ video.video-responsive::before {
   .col-lg-1 {
     width: 8.33333333%;
   }
+  .col-lg-auto {
+    width: auto;
+  }
   .hide-lg {
     display: none !important;
   }
@@ -1673,7 +1682,8 @@ video.video-responsive::before {
   .col-md-4,
   .col-md-3,
   .col-md-2,
-  .col-md-1 {
+  .col-md-1,
+  .col-md-auto {
     -ms-flex: none;
     flex: none;
   }
@@ -1713,6 +1723,9 @@ video.video-responsive::before {
   .col-md-1 {
     width: 8.33333333%;
   }
+  .col-md-auto {
+    width: auto;
+  }
   .hide-md {
     display: none !important;
   }
@@ -1733,7 +1746,8 @@ video.video-responsive::before {
   .col-sm-4,
   .col-sm-3,
   .col-sm-2,
-  .col-sm-1 {
+  .col-sm-1,
+  .col-sm-auto {
     -ms-flex: none;
     flex: none;
   }
@@ -1773,6 +1787,9 @@ video.video-responsive::before {
   .col-sm-1 {
     width: 8.33333333%;
   }
+  .col-sm-auto {
+    width: auto;
+  }
   .hide-sm {
     display: none !important;
   }
@@ -1793,7 +1810,8 @@ video.video-responsive::before {
   .col-xs-4,
   .col-xs-3,
   .col-xs-2,
-  .col-xs-1 {
+  .col-xs-1,
+  .col-xs-auto {
     -ms-flex: none;
     flex: none;
   }
@@ -1832,6 +1850,9 @@ video.video-responsive::before {
   }
   .col-xs-1 {
     width: 8.33333333%;
+  }
+  .col-xs-auto {
+    width: auto;
   }
   .hide-xs {
     display: none !important;

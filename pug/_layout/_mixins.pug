@@ -1,6 +1,9 @@
 mixin section-heading(id, name)
   .columns
-    .column.col-12(id=id)
+    .column(id=id)
       h2.x-title
         | #{name}
+    .column.col-auto.text-right.flex-centered
+      | Last update: 
+      span.ml-1.text-bold.text-primary #{today}
       
