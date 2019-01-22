@@ -133,12 +133,16 @@
   content: "$";
 }
 
+.section-ads {
+  margin: 2rem auto;
+}
+
 .x-title {
   font-size: 1.2rem;
   font-weight: 700;
   height: 1.8rem;
   line-height: 1.8rem;
-  padding: 2rem .4rem;
+  padding: .4rem;
 }
 
 .x-title .anchor {
@@ -152,6 +156,10 @@
 .x-footer {
   padding-left: .8rem;
   padding-right: .8rem;
+}
+
+.x-ad {
+  margin-top: 5.8rem;
 }
 
 @keyframes reveal-focus {

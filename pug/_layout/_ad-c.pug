@@ -1,10 +1,9 @@
-block ad-adsense
-  .docs-ad
-    .hide-md.text-center
+block ad-chitika
+  .x-ad.text-center
       script.
         ( function() {
           if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
-          var unit = {"calltype":"async[2]","publisher":"picturepan2","width":550,"height":250,"sid":"Chitika Default"};
+          var unit = {"calltype":"async[2]","publisher":"picturepan2","width":728,"height":90,"sid":"Chitika Default"};
           var placement_id = window.CHITIKA.units.length;
           window.CHITIKA.units.push(unit);
           document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
