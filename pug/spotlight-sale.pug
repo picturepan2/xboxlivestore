@@ -4,7 +4,7 @@ block variables
   - var slug = 'spotlight-sale'
   - var parent = 'index'
   - var title = 'Xbox Spotlight Sale - Xbox Deals & Sales - Xbox One Games, Xbox Live Gold'
-  - var description = 'Xbox Deals With Gold And Spotlight Sale Plus Publisher Sale'
+  - var description = 'Xbox Deals With Gold And Spotlight Sale Plus Publisher Sale.'
 
 block content
   .section-navbar
@@ -20,6 +20,10 @@ block content
       +section-heading('spotlight-sale', 'Spotlight Sale')
       .columns
         include _content/_spotlight-sale.pug
+
+  .section.section-ads
+    .container.grid-xl
+      include _layout/_ad-p.pug
 
   footer.section.section-footer
     include _layout/_footer.pug
