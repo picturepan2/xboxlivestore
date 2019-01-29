@@ -38,11 +38,7 @@ gulp.task('web', function() {
   gulp.src(paths.pug)
     .pipe(plumber())
     .pipe(data(function(file) {
-      return {
-        "dwg": require('./data/dwg.json'),
-        "spotlight": require('./data/spotlight.json'),
-        "newreleases": require('./data/newreleases.json')
-      }
+      return { require: require };
     }))
     .pipe(pug({
       pretty: true
