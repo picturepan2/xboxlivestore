@@ -8,7 +8,7 @@ block variables
   - var slug = ''
   - var parent = ''
   - var title = 'Xbox Deals & Sales'
-  - var description = '.'
+  - var description = ''
 
 if parent = 'index'
   if slug == 'index'
@@ -38,7 +38,7 @@ html(lang='en')
     meta(name='twitter:card' content='summary')
     meta(name='twitter:creator' content='@xbox')
     meta(name='google-site-verification' content='gIZqjiuMu10mICrN-O61fiRck7FrBdQGxel7iOzhbfc')
-    meta(name='propeller' content='90e1165abfa148d488b94be3f3282d62')
+    link(rel="alternate" type="application/rss+xml" href= domain + '/feed/index.xml' title="Xbox Deals & Sales")
     if parent = 'index'
       link(rel='stylesheet' href='assets/css/spectre.min.css')
       link(rel='stylesheet' href='assets/css/xboxlive.min.css')

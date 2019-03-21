@@ -1,0 +1,69 @@
+- var dwg = require("./data/dwg.json");
+- var spotlight = require("./data/spotlight.json");
+
+block variables
+  - var domain = 'https://xboxlive.store'
+  - var slug = 'feed'
+  - var parent = 'index'
+  - var title = 'Xbox New Releases - Xbox Deals & Sales - Xbox One Games, Xbox Live Gold'
+  - var description = 'Xbox Deals With Gold And Spotlight Sale Plus Publisher Sale.'
+
+- var today = new Date();
+- var year = '' + today.getFullYear();
+- var month = '' + (today.getMonth() + 1);
+- var date = '' + today.getDate();
+- if (month.length < 2) month = '0' + month;
+- if (date.length < 2) date = '0' + date;
+- var id = year + month + date;
+- today = today.toISOString()
+
+doctype xml
+rss(version="2.0" xmlns:atom="http://www.w3.org/2005/Atom")
+  channel
+    title= title
+    description= description
+    link= domain
+    atom:link(href="https://livesino.net/feed" rel="self" type="application/rss+xml")
+    lastBuildDate= today
+    language en-us
+
+    item
+      title Xbox Deals With Gold
+      link https://xboxlive.store/deals-with-gold.html
+      pubDate= today
+      guid https://xboxlive.store/deals-with-gold.html##{id}
+      description 
+        | <![CDATA[Here are this week’s Deals with Gold on the Microsoft Store.
+        each game in dwg
+          a(href='https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&u='+game.url, title=game.url, target='_blank')
+            .card-body
+              .game-card-discount
+                | #{game.discount}
+              h3.game-card-title
+                | #{game.title}
+            .card-footer
+              .game-card-newprice
+                | #{game.newprice}
+              .game-card-oriprice
+                | #{game.oriprice}
+        | ]]>
+    item
+      title Xbox Spotlight Sales
+      link https://xboxlive.store/spotlight-sale.html
+      pubDate= today
+      guid https://xboxlive.store/spotlight-sale.html##{id}
+      description 
+        | <![CDATA[Here are this week’s Spotlight Sales on the Microsoft Store.
+        each game in spotlight
+          a(href='https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&u='+game.url, title=game.url, target='_blank')
+            .card-body
+              .game-card-discount
+                | #{game.discount}
+              h3.game-card-title
+                | #{game.title}
+            .card-footer
+              .game-card-newprice
+                | #{game.newprice}
+              .game-card-oriprice
+                | #{game.oriprice}
+        | ]]> 

@@ -11,12 +11,14 @@ var fs = require('fs');
 
 var paths = {
   scss: './scss/*.scss',
-  pug: './pug/!(_)*.pug'
+  pug: './pug/!(_)*.pug',
+  rss: './pug/feed/index.pug'
 };
 
 gulp.task('watch', function() {
   gulp.watch('./**/*.scss', ['build']);
   gulp.watch('./**/*.pug', ['web']);
+  gulp.watch('./pug/feed/index.pug', ['rss']);
 });
 
 gulp.task('build', function() {
@@ -44,6 +46,21 @@ gulp.task('web', function() {
       pretty: true
     }))
     .pipe(gulp.dest('./'));
+});
+
+gulp.task('rss', function() {
+  gulp.src(paths.rss)
+    .pipe(plumber())
+    .pipe(data(function(file) {
+      return { require: require };
+    }))
+    .pipe(pug({
+      pretty: true
+    }))
+    .pipe(rename({
+      extname: ".xml"
+    }))
+    .pipe(gulp.dest('./feed/'));
 });
 
 gulp.task('default', ['build']);
