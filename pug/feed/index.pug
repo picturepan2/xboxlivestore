@@ -37,8 +37,6 @@ rss(version="2.0" xmlns:atom="http://www.w3.org/2005/Atom")
         each game in dwg
           a(href='https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&u='+game.url, title=game.url, target='_blank')
             .card-body
-              .game-card-discount
-                | #{game.discount}
               h3.game-card-title
                 | #{game.title}
             .card-footer
@@ -46,6 +44,8 @@ rss(version="2.0" xmlns:atom="http://www.w3.org/2005/Atom")
                 | #{game.newprice}
               .game-card-oriprice
                 | #{game.oriprice}
+              .game-card-discount
+                | #{game.discount}
         | ]]>
     item
       title Xbox Spotlight Sales
@@ -57,8 +57,6 @@ rss(version="2.0" xmlns:atom="http://www.w3.org/2005/Atom")
         each game in spotlight
           a(href='https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&u='+game.url, title=game.url, target='_blank')
             .card-body
-              .game-card-discount
-                | #{game.discount}
               h3.game-card-title
                 | #{game.title}
             .card-footer
@@ -66,4 +64,6 @@ rss(version="2.0" xmlns:atom="http://www.w3.org/2005/Atom")
                 | #{game.newprice}
               .game-card-oriprice
                 | #{game.oriprice}
+              .game-card-discount
+                | #{game.discount}
         | ]]> 
