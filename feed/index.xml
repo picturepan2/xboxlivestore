@@ -5,142 +5,286 @@
     <description>Xbox Deals With Gold And Spotlight Sale Plus Publisher Sale.</description>
     <link>https://xboxlive.store</link>
     <atom:link href="https://xboxlive.store/feed/index.xml" rel="self" type="application/rss+xml"></atom:link>
-    <lastBuildDate>2019-05-15T09:24:23.070Z</lastBuildDate>
+    <lastBuildDate>2019-05-21T14:36:10.798Z</lastBuildDate>
     <language>en-us</language>
     <item>
       <title>Xbox Deals With Gold</title>
       <link>https://xboxlive.store/deals-with-gold.html</link>
-      <pubDate>2019-05-15T09:24:23.070Z</pubDate>
-      <guid>https://xboxlive.store/deals-with-gold.html#20190515</guid>
+      <pubDate>2019-05-21T14:36:10.798Z</pubDate>
+      <guid>https://xboxlive.store/deals-with-gold.html#20190521</guid>
       <description>
-         <![CDATA[Here are this week’s Deals with Gold on the Microsoft Store.<a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/brawlout-standard-edition/c2w2wf8qhl9m" title="https://www.microsoft.com/en-us/p/brawlout-standard-edition/c2w2wf8qhl9m" target="_blank">
+         <![CDATA[Here are this week’s Deals with Gold on the Microsoft Store.<a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/surviving-mars/bxc7cs90nx6s" title="https://www.microsoft.com/en-us/p/surviving-mars/bxc7cs90nx6s" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Brawlout Standard Edition</h3>
+            <h3 class="game-card-title">Surviving Mars</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">9.89</div>
+            <div class="game-card-oriprice">29.99</div>
+            <div class="game-card-discount">67% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/one-piece-world-seeker/bp95h7bn67d4" title="https://www.microsoft.com/en-us/p/one-piece-world-seeker/bp95h7bn67d4" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">ONE PIECE World Seeker</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">40.19</div>
+            <div class="game-card-oriprice">59.99</div>
+            <div class="game-card-discount">33% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/outward/br1m1xw5tdgc" title="https://www.microsoft.com/en-us/p/outward/br1m1xw5tdgc" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Outward</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">31.99</div>
+            <div class="game-card-oriprice">39.99</div>
+            <div class="game-card-discount">20% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/need-for-speed-ultimate-bundle/bscm85r533j3" title="https://www.microsoft.com/en-us/p/need-for-speed-ultimate-bundle/bscm85r533j3" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Need for Speed™ Ultimate Bundle</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">18.00</div>
+            <div class="game-card-oriprice">59.99</div>
+            <div class="game-card-discount">70% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/outlast-2/bzvpnm21tcjc" title="https://www.microsoft.com/en-us/p/outlast-2/bzvpnm21tcjc" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Outlast 2</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">7.49</div>
+            <div class="game-card-oriprice">29.99</div>
+            <div class="game-card-discount">75% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/just-cause-4-standard-edition/c2vmcxwlz2kc" title="https://www.microsoft.com/en-us/p/just-cause-4-standard-edition/c2vmcxwlz2kc" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Just Cause 4 - Standard Edition</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">30.00</div>
+            <div class="game-card-oriprice">59.99</div>
+            <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/aca-neogeo-aero-fighters-2/c0ksj5z8s0bq" title="https://www.microsoft.com/en-us/p/aca-neogeo-aero-fighters-2/c0ksj5z8s0bq" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">ACA NEOGEO AERO FIGHTERS 2</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">3.99</div>
+            <div class="game-card-oriprice">7.99</div>
+            <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/digerati-horror-bundle/c57njq9205zf" title="https://www.microsoft.com/en-us/p/digerati-horror-bundle/c57njq9205zf" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Digerati Horror Bundle</h3>
           </div>
           <div class="card-footer">
             <div class="game-card-newprice">9.99</div>
-            <div class="game-card-oriprice">19.99</div>
+            <div class="game-card-oriprice">49.99</div>
+            <div class="game-card-discount">80% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/the-escapists-supermax-edition/c19v8ngrx4f5" title="https://www.microsoft.com/en-us/p/the-escapists-supermax-edition/c19v8ngrx4f5" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">The Escapists: Supermax Edition</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">7.87</div>
+            <div class="game-card-oriprice">31.49</div>
+            <div class="game-card-discount">75% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/i-zombie/bxqj9t399pfw" title="https://www.microsoft.com/en-us/p/i-zombie/bxqj9t399pfw" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">I, Zombie</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">1.99</div>
+            <div class="game-card-oriprice">3.99</div>
             <div class="game-card-discount">50% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/valentino-rossi-the-game/bnd10j71q760" title="https://www.microsoft.com/en-us/p/valentino-rossi-the-game/bnd10j71q760" target="_blank">
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/just-cause-4-digital-deluxe-edition/bwbnv5x03fvs" title="https://www.microsoft.com/en-us/p/just-cause-4-digital-deluxe-edition/bwbnv5x03fvs" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Valentino Rossi The Game</h3>
+            <h3 class="game-card-title">Just Cause 4 - Digital Deluxe Edition</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">4.99</div>
-            <div class="game-card-oriprice">19.99</div>
-            <div class="game-card-discount">75% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/blood-bowl-2-legendary-edition/c53bwksl34m5" title="https://www.microsoft.com/en-us/p/blood-bowl-2-legendary-edition/c53bwksl34m5" target="_blank">
+            <div class="game-card-newprice">35.00</div>
+            <div class="game-card-oriprice">69.99</div>
+            <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/just-cause-4-gold-edition/bsjjkww1z4kn" title="https://www.microsoft.com/en-us/p/just-cause-4-gold-edition/bsjjkww1z4kn" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Blood Bowl 2 - Legendary Edition</h3>
+            <h3 class="game-card-title">Just Cause 4 - Gold Edition</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">11.24</div>
-            <div class="game-card-oriprice">44.99</div>
-            <div class="game-card-discount">75% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/digerati-family-friendly-bundle/bxv5c9c9tkws" title="https://www.microsoft.com/en-us/p/digerati-family-friendly-bundle/bxv5c9c9tkws" target="_blank">
+            <div class="game-card-newprice">45.00</div>
+            <div class="game-card-oriprice">89.99</div>
+            <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/lost-artifacts-soulstone/9pjgl58m9kx6" title="https://www.microsoft.com/en-us/p/lost-artifacts-soulstone/9pjgl58m9kx6" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Digerati Family Friendly Bundle</h3>
+            <h3 class="game-card-title">Lost Artifacts: Soulstone</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">7.19</div>
-            <div class="game-card-oriprice">17.99</div>
-            <div class="game-card-discount">60% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/forsaken-remastered/bqmpk93q7561" title="https://www.microsoft.com/en-us/p/forsaken-remastered/bqmpk93q7561" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Forsaken Remastered</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">4.99</div>
-            <div class="game-card-oriprice">19.99</div>
-            <div class="game-card-discount">75% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/the-coma-recut/c1jgtjc3jz2k" title="https://www.microsoft.com/en-us/p/the-coma-recut/c1jgtjc3jz2k" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">The Coma: Recut</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">4.49</div>
-            <div class="game-card-oriprice">14.99</div>
-            <div class="game-card-discount">70% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/hyper-jam/9pb5x5wvztb6" title="https://www.microsoft.com/en-us/p/hyper-jam/9pb5x5wvztb6" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Hyper Jam</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">11.24</div>
-            <div class="game-card-oriprice">14.99</div>
-            <div class="game-card-discount">25% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/blackwood-crossing/c02p796t0gw6" title="https://www.microsoft.com/en-us/p/blackwood-crossing/c02p796t0gw6" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Blackwood Crossing</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">9.59</div>
-            <div class="game-card-oriprice">15.99</div>
+            <div class="game-card-newprice">5.99</div>
+            <div class="game-card-oriprice">9.99</div>
             <div class="game-card-discount">40% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/brawlout-deluxe-edition/bz341s7kn8c3" title="https://www.microsoft.com/en-us/p/brawlout-deluxe-edition/bz341s7kn8c3" target="_blank">
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/mordheim-city-of-the-damned-complete-edition/c2kp3vp1fmwg" title="https://www.microsoft.com/en-us/p/mordheim-city-of-the-damned-complete-edition/c2kp3vp1fmwg" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Brawlout Deluxe Edition</h3>
+            <h3 class="game-card-title">Mordheim: City of the Damned - Complete Edition</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">12.49</div>
+            <div class="game-card-oriprice">49.99</div>
+            <div class="game-card-discount">75% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/motogp-17/bv559lh6rts1" title="https://www.microsoft.com/en-us/p/motogp-17/bv559lh6rts1" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">MotoGP™17</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">7.99</div>
+            <div class="game-card-oriprice">39.99</div>
+            <div class="game-card-discount">80% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/mxgp3/btdhx5z7gl0w" title="https://www.microsoft.com/en-us/p/mxgp3/btdhx5z7gl0w" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">MXGP3</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">9.99</div>
+            <div class="game-card-oriprice">39.99</div>
+            <div class="game-card-discount">75% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/need-for-speed-deluxe-bundle/bqg9f4865rmv" title="https://www.microsoft.com/en-us/p/need-for-speed-deluxe-bundle/bqg9f4865rmv" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Need for Speed™ Deluxe Bundle</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">10.00</div>
+            <div class="game-card-oriprice">39.99</div>
+            <div class="game-card-discount">75% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/one-piece-burning-blood-gold-edition/c2vb1p2pknd8" title="https://www.microsoft.com/en-us/p/one-piece-burning-blood-gold-edition/c2vb1p2pknd8" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">ONE PIECE BURNING BLOOD - Gold Edition</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">21.12</div>
+            <div class="game-card-oriprice">84.49</div>
+            <div class="game-card-discount">75% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/one-piece-world-seeker-deluxe-edition/bttmhz66l2fq" title="https://www.microsoft.com/en-us/p/one-piece-world-seeker-deluxe-edition/bttmhz66l2fq" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">ONE PIECE World Seeker Deluxe Edition</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">67.49</div>
+            <div class="game-card-oriprice">89.99</div>
+            <div class="game-card-discount">25% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/one-piece-burning-blood/bt3rwjd102lx" title="https://www.microsoft.com/en-us/p/one-piece-burning-blood/bt3rwjd102lx" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">One Piece: Burning Blood</h3>
           </div>
           <div class="card-footer">
             <div class="game-card-newprice">14.99</div>
-            <div class="game-card-oriprice">29.99</div>
-            <div class="game-card-discount">50% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/i-am-bread/c1spd35kvpj0" title="https://www.microsoft.com/en-us/p/i-am-bread/c1spd35kvpj0" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">I Am Bread</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">6.49</div>
-            <div class="game-card-oriprice">12.99</div>
-            <div class="game-card-discount">50% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/motogp-18/c2j3kxbtv02k" title="https://www.microsoft.com/en-us/p/motogp-18/c2j3kxbtv02k" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">MotoGP™18</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">12.49</div>
-            <div class="game-card-oriprice">49.99</div>
+            <div class="game-card-oriprice">59.99</div>
             <div class="game-card-discount">75% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/seasons-after-fall/bvjrh8wmb3bg" title="https://www.microsoft.com/en-us/p/seasons-after-fall/bvjrh8wmb3bg" target="_blank">
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/outlast/bp3gh4d3hp2h" title="https://www.microsoft.com/en-us/p/outlast/bp3gh4d3hp2h" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Seasons after Fall</h3>
+            <h3 class="game-card-title">Outlast</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">3.99</div>
+            <div class="game-card-oriprice">19.99</div>
+            <div class="game-card-discount">80% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/whistleblower/btqs0zvjd76h" title="https://www.microsoft.com/en-us/p/whistleblower/btqs0zvjd76h" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Whistleblower</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">1.79</div>
+            <div class="game-card-oriprice">8.99</div>
+            <div class="game-card-discount">80% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/aca-neogeo-savage-reign/c2trc95968pt" title="https://www.microsoft.com/en-us/p/aca-neogeo-savage-reign/c2trc95968pt" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">ACA NEOGEO SAVAGE REIGN</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">3.99</div>
+            <div class="game-card-oriprice">7.99</div>
+            <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/shred-it/bpq6pcks8kpx" title="https://www.microsoft.com/en-us/p/shred-it/bpq6pcks8kpx" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Shred It!</h3>
           </div>
           <div class="card-footer">
             <div class="game-card-newprice">4.99</div>
-            <div class="game-card-oriprice">19.99</div>
-            <div class="game-card-discount">75% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/sebastien-loeb-rally-evo/br5bk5pnzkvh" title="https://www.microsoft.com/en-us/p/sebastien-loeb-rally-evo/br5bk5pnzkvh" target="_blank">
+            <div class="game-card-oriprice">9.99</div>
+            <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/steel-rain-x/c59p7fdt7ghv" title="https://www.microsoft.com/en-us/p/steel-rain-x/c59p7fdt7ghv" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Sébastien Loeb Rally EVO</h3>
+            <h3 class="game-card-title">Steel Rain X</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">4.99</div>
-            <div class="game-card-oriprice">19.99</div>
-            <div class="game-card-discount">75% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/tour-de-france-2018/bpm9498rr5gd" title="https://www.microsoft.com/en-us/p/tour-de-france-2018/bpm9498rr5gd" target="_blank">
+            <div class="game-card-newprice">5.99</div>
+            <div class="game-card-oriprice">9.99</div>
+            <div class="game-card-discount">40% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/stories-the-path-of-destinies/9nnhzx41p7jv" title="https://www.microsoft.com/en-us/p/stories-the-path-of-destinies/9nnhzx41p7jv" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Tour de France 2018</h3>
+            <h3 class="game-card-title">Stories : The Path of Destinies</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">12.49</div>
+            <div class="game-card-newprice">10.49</div>
+            <div class="game-card-oriprice">14.99</div>
+            <div class="game-card-discount">30% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/aca-neogeo-super-sidekicks-2/c35j5crx49l9" title="https://www.microsoft.com/en-us/p/aca-neogeo-super-sidekicks-2/c35j5crx49l9" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">ACA NEOGEO SUPER SIDEKICKS 2</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">3.99</div>
+            <div class="game-card-oriprice">7.99</div>
+            <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/surviving-mars-digital-deluxe-edition/bvfwp2trrfsf" title="https://www.microsoft.com/en-us/p/surviving-mars-digital-deluxe-edition/bvfwp2trrfsf" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Surviving Mars - Digital Deluxe Edition</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">13.19</div>
+            <div class="game-card-oriprice">39.99</div>
+            <div class="game-card-discount">67% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/surviving-mars-first-colony-edition/bq8jvhsg2j3p" title="https://www.microsoft.com/en-us/p/surviving-mars-first-colony-edition/bq8jvhsg2j3p" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Surviving Mars - First Colony Edition</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">21.44</div>
+            <div class="game-card-oriprice">64.99</div>
+            <div class="game-card-discount">67% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/three-fourths-home-extended-edition/bw9qk4ktphnw" title="https://www.microsoft.com/en-us/p/three-fourths-home-extended-edition/bw9qk4ktphnw" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Three Fourths Home: Extended Edition</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">3.29</div>
+            <div class="game-card-oriprice">9.99</div>
+            <div class="game-card-discount">67% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/tt-isle-of-man/c1shgh9p2npr" title="https://www.microsoft.com/en-us/p/tt-isle-of-man/c1shgh9p2npr" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">TT Isle of Man</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">39.59</div>
+            <div class="game-card-oriprice">71.99</div>
+            <div class="game-card-discount">45% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/worms-anniversary-edition/bqdn4084hf1j" title="https://www.microsoft.com/en-us/p/worms-anniversary-edition/bqdn4084hf1j" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Worms Anniversary Edition</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">14.87</div>
+            <div class="game-card-oriprice">59.49</div>
+            <div class="game-card-discount">75% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/xenon-racer/bpd53xch282v" title="https://www.microsoft.com/en-us/p/xenon-racer/bpd53xch282v" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Xenon Racer</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">37.49</div>
             <div class="game-card-oriprice">49.99</div>
-            <div class="game-card-discount">75% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/yet-another-zombie-defense-hd/c0988kfjn8bl" title="https://www.microsoft.com/en-us/p/yet-another-zombie-defense-hd/c0988kfjn8bl" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Yet Another Zombie Defense HD</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">3.34</div>
-            <div class="game-card-oriprice">4.99</div>
-            <div class="game-card-discount">33% OFF</div>
+            <div class="game-card-discount">25% OFF</div>
           </div></a>]]>
       </description>
     </item>
     <item>
       <title>Xbox Spotlight Sales</title>
       <link>https://xboxlive.store/spotlight-sale.html</link>
-      <pubDate>2019-05-15T09:24:23.070Z</pubDate>
-      <guid>https://xboxlive.store/spotlight-sale.html#20190515</guid>
+      <pubDate>2019-05-21T14:36:10.798Z</pubDate>
+      <guid>https://xboxlive.store/spotlight-sale.html#20190521</guid>
       <description>
          <![CDATA[Here are this week’s Spotlight Sales on the Microsoft Store.<a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/american-fugitive/C48LJQLV397R" title="https://www.microsoft.com/en-us/p/american-fugitive/C48LJQLV397R" target="_blank">
           <div class="card-body">
@@ -150,14 +294,14 @@
             <div class="game-card-newprice">15.99</div>
             <div class="game-card-oriprice">19.99</div>
             <div class="game-card-discount">20% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/darkwood/9N2H63Z2GLBC" title="https://www.microsoft.com/en-us/p/darkwood/9N2H63Z2GLBC" target="_blank">
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/devious-dungeon-2/9N01N6BZ8HD3" title="https://www.microsoft.com/en-us/p/devious-dungeon-2/9N01N6BZ8HD3" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Darkwood</h3>
+            <h3 class="game-card-title">Devious Dungeon 2</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">13.49</div>
-            <div class="game-card-oriprice">14.99</div>
-            <div class="game-card-discount">10% OFF</div>
+            <div class="game-card-newprice">6.39</div>
+            <div class="game-card-oriprice">7.99</div>
+            <div class="game-card-discount">20% OFF</div>
           </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/for-the-king/BP2BW45WZ45Z" title="https://www.microsoft.com/en-us/p/for-the-king/BP2BW45WZ45Z" target="_blank">
           <div class="card-body">
             <h3 class="game-card-title">For The King</h3>
@@ -174,78 +318,86 @@
             <div class="game-card-newprice">4.79</div>
             <div class="game-card-oriprice">5.99</div>
             <div class="game-card-discount">20% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/bird-game-/9NS7T3JRFZBN" title="https://www.microsoft.com/en-us/p/bird-game-/9NS7T3JRFZBN" target="_blank">
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/mutant-football-league/C2T1SFV91Q3R" title="https://www.microsoft.com/en-us/p/mutant-football-league/C2T1SFV91Q3R" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Bird Game +</h3>
+            <h3 class="game-card-title">Mutant Football League</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">3.99</div>
-            <div class="game-card-oriprice">4.99</div>
+            <div class="game-card-newprice">9.74</div>
+            <div class="game-card-oriprice">14.99</div>
+            <div class="game-card-discount">35% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/gang-beasts/BPQZT43FWD49" title="https://www.microsoft.com/en-us/p/gang-beasts/BPQZT43FWD49" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Gang Beasts</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">15.99</div>
+            <div class="game-card-oriprice">19.99</div>
             <div class="game-card-discount">20% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/flutter-bombs/9PM8BXR2D26R" title="https://www.microsoft.com/en-us/p/flutter-bombs/9PM8BXR2D26R" target="_blank">
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/dayz/BSR9NLHVF1KL" title="https://www.microsoft.com/en-us/p/dayz/BSR9NLHVF1KL" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Flutter Bombs</h3>
+            <h3 class="game-card-title">DayZ</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">7.49</div>
-            <div class="game-card-oriprice">9.99</div>
-            <div class="game-card-discount">25% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/rbi-baseball-19/9PLKW273Z2P0" title="https://www.microsoft.com/en-us/p/rbi-baseball-19/9PLKW273Z2P0" target="_blank">
+            <div class="game-card-newprice">34.99</div>
+            <div class="game-card-oriprice">49.99</div>
+            <div class="game-card-discount">30% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/crimson-keep/9P0WWB5TV9LB" title="https://www.microsoft.com/en-us/p/crimson-keep/9P0WWB5TV9LB" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">R.B.I. Baseball 19</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">24.89</div>
-            <div class="game-card-oriprice">29.99</div>
-            <div class="game-card-discount">17% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/treasure-stack/9PKP696HVL7T" title="https://www.microsoft.com/en-us/p/treasure-stack/9PKP696HVL7T" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Treasure Stack</h3>
+            <h3 class="game-card-title">Crimson Keep</h3>
           </div>
           <div class="card-footer">
             <div class="game-card-newprice">9.99</div>
             <div class="game-card-oriprice">19.99</div>
             <div class="game-card-discount">50% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/dead-or-alive-6-full-game/BQ5WNW5NCPKR" title="https://www.microsoft.com/en-us/p/dead-or-alive-6-full-game/BQ5WNW5NCPKR" target="_blank">
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/toejam-and-earl-back-in-the-groove/9NVC78LKGMRR" title="https://www.microsoft.com/en-us/p/toejam-and-earl-back-in-the-groove/9NVC78LKGMRR" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">DEAD OR ALIVE 6 (Full Game)</h3>
+            <h3 class="game-card-title">ToeJam and Earl: Back in the Groove!</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">47.99</div>
-            <div class="game-card-oriprice">59.99</div>
-            <div class="game-card-discount">20% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/8-bit-invaders/BX3P1BN115JP" title="https://www.microsoft.com/en-us/p/8-bit-invaders/BX3P1BN115JP" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">8-Bit Invaders!</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">9.90</div>
-            <div class="game-card-oriprice">29.99</div>
-            <div class="game-card-discount">67% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/asdivine-hearts-ii/9N25HH4JN0LC" title="https://www.microsoft.com/en-us/p/asdivine-hearts-ii/9N25HH4JN0LC" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Asdivine Hearts II</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">10.49</div>
-            <div class="game-card-oriprice">14.99</div>
-            <div class="game-card-discount">30% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/plague-road/9NCDH8CSML7Z" title="https://www.microsoft.com/en-us/p/plague-road/9NCDH8CSML7Z" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Plague Road</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">2.99</div>
+            <div class="game-card-newprice">14.99</div>
             <div class="game-card-oriprice">19.99</div>
-            <div class="game-card-discount">85% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/rival-megagun/BWJSL0D2PT61" title="https://www.microsoft.com/en-us/p/rival-megagun/BWJSL0D2PT61" target="_blank">
+            <div class="game-card-discount">25% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/wargroove/9NRPTTJ94PCK" title="https://www.microsoft.com/en-us/p/wargroove/9NRPTTJ94PCK" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Rival Megagun</h3>
+            <h3 class="game-card-title">Wargroove</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">11.24</div>
-            <div class="game-card-oriprice">14.99</div>
-            <div class="game-card-discount">25% OFF</div>
+            <div class="game-card-newprice">16.99</div>
+            <div class="game-card-oriprice">19.99</div>
+            <div class="game-card-discount">15% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/guacamelee-2/9NVK1W7L093S" title="https://www.microsoft.com/en-us/p/guacamelee-2/9NVK1W7L093S" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Guacamelee! 2</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">9.99</div>
+            <div class="game-card-oriprice">19.99</div>
+            <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.xbox.com/en-us/games/below" title="https://www.xbox.com/en-us/games/below" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">BELOW</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">17.49</div>
+            <div class="game-card-oriprice">24.99</div>
+            <div class="game-card-discount">30% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.xbox.com/en-us/games/ashen" title="https://www.xbox.com/en-us/games/ashen" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Ashen</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">33.99</div>
+            <div class="game-card-oriprice">39.99</div>
+            <div class="game-card-discount">15% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/mutant-year-zero-road-to-eden/9NMP9B9KMKLF" title="https://www.microsoft.com/en-us/p/mutant-year-zero-road-to-eden/9NMP9B9KMKLF" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Mutant Year Zero: Road to Eden</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">22.74</div>
+            <div class="game-card-oriprice">34.99</div>
+            <div class="game-card-discount">35% OFF</div>
           </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/horizon-chase-turbo/BV3FZP8HC2T5" title="https://www.microsoft.com/en-us/p/horizon-chase-turbo/BV3FZP8HC2T5" target="_blank">
           <div class="card-body">
             <h3 class="game-card-title">Horizon Chase Turbo</h3>
@@ -254,46 +406,14 @@
             <div class="game-card-newprice">11.99</div>
             <div class="game-card-oriprice">19.99</div>
             <div class="game-card-discount">40% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/world-of-final-fantasy-maxima/C3D89V4NH8F2" title="https://www.microsoft.com/en-us/p/world-of-final-fantasy-maxima/C3D89V4NH8F2" target="_blank">
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/bendy-and-the-ink-machine/BTQ96QTQ58F3" title="https://www.microsoft.com/en-us/p/bendy-and-the-ink-machine/BTQ96QTQ58F3" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">WORLD OF FINAL FANTASY MAXIMA</h3>
+            <h3 class="game-card-title">Bendy and the Ink Machine™</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">20.00</div>
-            <div class="game-card-oriprice">39.99</div>
+            <div class="game-card-newprice">9.99</div>
+            <div class="game-card-oriprice">19.99</div>
             <div class="game-card-discount">50% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/my-hero-ones-justice/BVFF56S7PXFJ" title="https://www.microsoft.com/en-us/p/my-hero-ones-justice/BVFF56S7PXFJ" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">MY HERO ONE’S JUSTICE</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">29.99</div>
-            <div class="game-card-oriprice">59.99</div>
-            <div class="game-card-discount">50% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.xbox.com/en-us/games/soulcalibur-vi" title="https://www.xbox.com/en-us/games/soulcalibur-vi" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">SOULCALIBUR VI</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">19.80</div>
-            <div class="game-card-oriprice">59.99</div>
-            <div class="game-card-discount">67% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/guns-gore-and-cannoli-2/BT2F8LHH10GS" title="https://www.microsoft.com/en-us/p/guns-gore-and-cannoli-2/BT2F8LHH10GS" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Guns, Gore and Cannoli 2</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">7.79</div>
-            <div class="game-card-oriprice">12.99</div>
-            <div class="game-card-discount">40% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/chronus-arc/9NGRKZ1K1QQK" title="https://www.microsoft.com/en-us/p/chronus-arc/9NGRKZ1K1QQK" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Chronus Arc</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">10.49</div>
-            <div class="game-card-oriprice">14.99</div>
-            <div class="game-card-discount">30% OFF</div>
           </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/minecraft-starter-collection/9N1XJMDGKHWZ" title="https://www.microsoft.com/en-us/p/minecraft-starter-collection/9N1XJMDGKHWZ" target="_blank">
           <div class="card-body">
             <h3 class="game-card-title">Minecraft Starter Collection</h3>
@@ -302,118 +422,94 @@
             <div class="game-card-newprice">19.99</div>
             <div class="game-card-oriprice">29.99</div>
             <div class="game-card-discount">33% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/valkyria-chronicles-4/C4RQNBKSLJG7" title="https://www.microsoft.com/en-us/p/valkyria-chronicles-4/C4RQNBKSLJG7" target="_blank">
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/darkest-dungeon-ancestral-edition/BQMWB8LGQX81" title="https://www.microsoft.com/en-us/p/darkest-dungeon-ancestral-edition/BQMWB8LGQX81" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Valkyria Chronicles 4</h3>
+            <h3 class="game-card-title">Darkest Dungeon®: Ancestral Edition</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">29.99</div>
-            <div class="game-card-oriprice">59.99</div>
-            <div class="game-card-discount">50% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/revenant-dogma/9PM1HTWKBR83" title="https://www.microsoft.com/en-us/p/revenant-dogma/9PM1HTWKBR83" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Revenant Dogma</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">10.49</div>
-            <div class="game-card-oriprice">14.99</div>
+            <div class="game-card-newprice">27.99</div>
+            <div class="game-card-oriprice">39.99</div>
             <div class="game-card-discount">30% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/super-street-the-game/C0T1DCKWD8W3" title="https://www.microsoft.com/en-us/p/super-street-the-game/C0T1DCKWD8W3" target="_blank">
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/amnesia-collection/BV02TBL15DX3" title="https://www.microsoft.com/en-us/p/amnesia-collection/BV02TBL15DX3" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Super Street: The Game</h3>
+            <h3 class="game-card-title">Amnesia: Collection</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">14.99</div>
+            <div class="game-card-oriprice">29.99</div>
+            <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/hollow-knight-voidheart-edition/9MW9469V91LM" title="https://www.microsoft.com/en-us/p/hollow-knight-voidheart-edition/9MW9469V91LM" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Hollow Knight: Voidheart Edition</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">9.74</div>
+            <div class="game-card-oriprice">14.99</div>
+            <div class="game-card-discount">35% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/fishing-sim-world/BPR4TX9NRWRW" title="https://www.microsoft.com/en-us/p/fishing-sim-world/BPR4TX9NRWRW" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Fishing Sim World</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">11.99</div>
+            <div class="game-card-oriprice">19.99</div>
+            <div class="game-card-discount">40% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/divinity-original-sin-2---definitive-edition/BW8PVL4CJ2Q6" title="https://www.microsoft.com/en-us/p/divinity-original-sin-2---definitive-edition/BW8PVL4CJ2Q6" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Divinity: Original Sin 2 - Definitive Edition</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">35.99</div>
+            <div class="game-card-oriprice">59.99</div>
+            <div class="game-card-discount">40% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/overcooked-2/BVJLKDG2TX8H" title="https://www.microsoft.com/en-us/p/overcooked-2/BVJLKDG2TX8H" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Overcooked! 2</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">17.49</div>
+            <div class="game-card-oriprice">24.99</div>
+            <div class="game-card-discount">30% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/dead-cells/BQSCNS1T8PHQ" title="https://www.microsoft.com/en-us/p/dead-cells/BQSCNS1T8PHQ" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Dead Cells</h3>
           </div>
           <div class="card-footer">
             <div class="game-card-newprice">19.99</div>
-            <div class="game-card-oriprice">39.99</div>
-            <div class="game-card-discount">50% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/final-fantasy-xv-pocket-edition-hd/C0WQRR1PP63D" title="https://www.microsoft.com/en-us/p/final-fantasy-xv-pocket-edition-hd/C0WQRR1PP63D" target="_blank">
+            <div class="game-card-oriprice">24.99</div>
+            <div class="game-card-discount">20% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/candle-the-power-of-the-flame/C0N9CL9QKSCC" title="https://www.microsoft.com/en-us/p/candle-the-power-of-the-flame/C0N9CL9QKSCC" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">FINAL FANTASY XV POCKET EDITION HD</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">17.99</div>
-            <div class="game-card-oriprice">29.99</div>
-            <div class="game-card-discount">40% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/the-videokid/9NHD1JTF2MRK" title="https://www.microsoft.com/en-us/p/the-videokid/9NHD1JTF2MRK" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">The VideoKid</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">3.49</div>
-            <div class="game-card-oriprice">4.99</div>
-            <div class="game-card-discount">30% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/shenmue-i--ii/BZZP5HFC3PGJ" title="https://www.microsoft.com/en-us/p/shenmue-i--ii/BZZP5HFC3PGJ" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Shenmue I &amp; II</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">19.49</div>
-            <div class="game-card-oriprice">29.99</div>
-            <div class="game-card-discount">35% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/fernz-gate/9PDTN43FLJM4" title="https://www.microsoft.com/en-us/p/fernz-gate/9PDTN43FLJM4" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Fernz Gate</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">8.99</div>
-            <div class="game-card-oriprice">14.99</div>
-            <div class="game-card-discount">40% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/the-long-reach/BSC246MT070F" title="https://www.microsoft.com/en-us/p/the-long-reach/BSC246MT070F" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">The Long Reach</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">3.74</div>
-            <div class="game-card-oriprice">14.99</div>
-            <div class="game-card-discount">75% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/hungry-shark-world/C3NHWKLR94M9" title="https://www.microsoft.com/en-us/p/hungry-shark-world/C3NHWKLR94M9" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Hungry Shark® World</h3>
+            <h3 class="game-card-title">Candle: The Power of the Flame</h3>
           </div>
           <div class="card-footer">
             <div class="game-card-newprice">4.99</div>
-            <div class="game-card-oriprice">9.99</div>
-            <div class="game-card-discount">50% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/shining-resonance-refrain/BXFP2QC134V7" title="https://www.microsoft.com/en-us/p/shining-resonance-refrain/BXFP2QC134V7" target="_blank">
+            <div class="game-card-oriprice">19.99</div>
+            <div class="game-card-discount">75% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/no-mans-sky/BQVQTL3PCH05" title="https://www.microsoft.com/en-us/p/no-mans-sky/BQVQTL3PCH05" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Shining Resonance Refrain</h3>
+            <h3 class="game-card-title">No Man's Sky</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">24.99</div>
+            <div class="game-card-newprice">37.49</div>
             <div class="game-card-oriprice">49.99</div>
+            <div class="game-card-discount">25% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/moonlighter/9P8XJRLCLH2P" title="https://www.microsoft.com/en-us/p/moonlighter/9P8XJRLCLH2P" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Moonlighter</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">9.99</div>
+            <div class="game-card-oriprice">19.99</div>
             <div class="game-card-discount">50% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/asdivine-hearts/9PBMHT7R51D3" title="https://www.microsoft.com/en-us/p/asdivine-hearts/9PBMHT7R51D3" target="_blank">
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/yokus-island-express/BP63MT1VJV6X" title="https://www.microsoft.com/en-us/p/yokus-island-express/BP63MT1VJV6X" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Asdivine Hearts</h3>
+            <h3 class="game-card-title">Yoku's Island Express</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">8.99</div>
-            <div class="game-card-oriprice">14.99</div>
-            <div class="game-card-discount">40% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/lumines-remastered/BNVQ3TXZ3JH4" title="https://www.microsoft.com/en-us/p/lumines-remastered/BNVQ3TXZ3JH4" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">LUMINES REMASTERED</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">8.99</div>
-            <div class="game-card-oriprice">14.99</div>
-            <div class="game-card-discount">40% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/bloodstained-curse-of-the-moon/BTG951RGX7QD" title="https://www.microsoft.com/en-us/p/bloodstained-curse-of-the-moon/BTG951RGX7QD" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Bloodstained: Curse of the Moon</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">6.49</div>
-            <div class="game-card-oriprice">9.99</div>
-            <div class="game-card-discount">35% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/aca-neogeo-baseball-stars-professional/C1RCCQKPLH7W" title="https://www.microsoft.com/en-us/p/aca-neogeo-baseball-stars-professional/C1RCCQKPLH7W" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">ACA NEOGEO BASEBALL STARS PROFESSIONAL</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">3.99</div>
-            <div class="game-card-oriprice">7.99</div>
-            <div class="game-card-discount">50% OFF</div>
+            <div class="game-card-newprice">6.59</div>
+            <div class="game-card-oriprice">19.99</div>
+            <div class="game-card-discount">67% OFF</div>
           </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/grim-legends-collection/C11TK3P8P2BW" title="https://www.microsoft.com/en-us/p/grim-legends-collection/C11TK3P8P2BW" target="_blank">
           <div class="card-body">
             <h3 class="game-card-title">Grim Legends Collection</h3>
@@ -422,6 +518,14 @@
             <div class="game-card-newprice">35.99</div>
             <div class="game-card-oriprice">44.99</div>
             <div class="game-card-discount">20% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/conan-exiles/C2X6ZCNKN2WR" title="https://www.microsoft.com/en-us/p/conan-exiles/C2X6ZCNKN2WR" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Conan Exiles</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">27.49</div>
+            <div class="game-card-oriprice">49.99</div>
+            <div class="game-card-discount">45% OFF</div>
           </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/minecraft-master-collection/9PMTBB8XS937" title="https://www.microsoft.com/en-us/p/minecraft-master-collection/9PMTBB8XS937" target="_blank">
           <div class="card-body">
             <h3 class="game-card-title">Minecraft Master Collection</h3>
@@ -430,46 +534,6 @@
             <div class="game-card-newprice">39.99</div>
             <div class="game-card-oriprice">49.99</div>
             <div class="game-card-discount">20% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/impact-winter/BZJ96QCRQWGT" title="https://www.microsoft.com/en-us/p/impact-winter/BZJ96QCRQWGT" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Impact Winter</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">4.99</div>
-            <div class="game-card-oriprice">19.99</div>
-            <div class="game-card-discount">75% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/octahedron/C3H7ZJKZ75SQ" title="https://www.microsoft.com/en-us/p/octahedron/C3H7ZJKZ75SQ" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Octahedron</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">6.49</div>
-            <div class="game-card-oriprice">12.99</div>
-            <div class="game-card-discount">50% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.xbox.com/en-us/games/final-fantasy-xv" title="https://www.xbox.com/en-us/games/final-fantasy-xv" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">FINAL FANTASY XV ROYAL EDITION</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">25.00</div>
-            <div class="game-card-oriprice">49.99</div>
-            <div class="game-card-discount">50% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/fear-effect-sedna/C14QX7KBWHSN" title="https://www.microsoft.com/en-us/p/fear-effect-sedna/C14QX7KBWHSN" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Fear Effect Sedna</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">2.99</div>
-            <div class="game-card-oriprice">19.99</div>
-            <div class="game-card-discount">85% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/sword-art-online-fatal-bullet/BWH56DK175P1" title="https://www.microsoft.com/en-us/p/sword-art-online-fatal-bullet/BWH56DK175P1" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">SWORD ART ONLINE: FATAL BULLET</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">16.00</div>
-            <div class="game-card-oriprice">39.99</div>
-            <div class="game-card-discount">60% OFF</div>
           </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/nightmares-from-the-deep-collection/BZ292DNW53RF" title="https://www.microsoft.com/en-us/p/nightmares-from-the-deep-collection/BZ292DNW53RF" target="_blank">
           <div class="card-body">
             <h3 class="game-card-title">Nightmares from the Deep Collection</h3>
@@ -478,14 +542,6 @@
             <div class="game-card-newprice">35.99</div>
             <div class="game-card-oriprice">44.99</div>
             <div class="game-card-discount">20% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/flying-tigers-shadows-over-china/C0K72P573FSC" title="https://www.microsoft.com/en-us/p/flying-tigers-shadows-over-china/C0K72P573FSC" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">FLYING TIGERS: SHADOWS OVER CHINA</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">9.49</div>
-            <div class="game-card-oriprice">18.99</div>
-            <div class="game-card-discount">50% OFF</div>
           </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/artifex-mundi-adventure-collection/BSF9FVV3P8D9" title="https://www.microsoft.com/en-us/p/artifex-mundi-adventure-collection/BSF9FVV3P8D9" target="_blank">
           <div class="card-body">
             <h3 class="game-card-title">Artifex Mundi Adventure Collection</h3>
@@ -494,22 +550,22 @@
             <div class="game-card-newprice">62.99</div>
             <div class="game-card-oriprice">89.99</div>
             <div class="game-card-discount">30% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/romancing-saga-2/9MWNL6SB15W0" title="https://www.microsoft.com/en-us/p/romancing-saga-2/9MWNL6SB15W0" target="_blank">
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/ultimate-chicken-horse/BNNMLWZRNQF6" title="https://www.microsoft.com/en-us/p/ultimate-chicken-horse/BNNMLWZRNQF6" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Romancing SaGa 2</h3>
+            <h3 class="game-card-title">Ultimate Chicken Horse</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">18.74</div>
-            <div class="game-card-oriprice">24.99</div>
-            <div class="game-card-discount">25% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/oh-my-godheads/BZ8JX8NK5X4N" title="https://www.microsoft.com/en-us/p/oh-my-godheads/BZ8JX8NK5X4N" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Oh My Godheads</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">3.74</div>
+            <div class="game-card-newprice">8.99</div>
             <div class="game-card-oriprice">14.99</div>
-            <div class="game-card-discount">75% OFF</div>
+            <div class="game-card-discount">40% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/soma/C23M2TC1ZFPJ" title="https://www.microsoft.com/en-us/p/soma/C23M2TC1ZFPJ" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">SOMA</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">11.99</div>
+            <div class="game-card-oriprice">29.99</div>
+            <div class="game-card-discount">60% OFF</div>
           </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/the-jackbox-party-quadpack/BTF4L389V68B" title="https://www.microsoft.com/en-us/p/the-jackbox-party-quadpack/BTF4L389V68B" target="_blank">
           <div class="card-body">
             <h3 class="game-card-title">The Jackbox Party Quadpack</h3>
@@ -518,22 +574,14 @@
             <div class="game-card-newprice">74.99</div>
             <div class="game-card-oriprice">99.99</div>
             <div class="game-card-discount">25% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/deadbeat-heroes/BR8LLZGSDHX3" title="https://www.microsoft.com/en-us/p/deadbeat-heroes/BR8LLZGSDHX3" target="_blank">
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/thehunter-call-of-the-wild/BXBJQ1932138" title="https://www.microsoft.com/en-us/p/thehunter-call-of-the-wild/BXBJQ1932138" target="_blank">
           <div class="card-body">
-            <h3 class="game-card-title">Deadbeat Heroes</h3>
+            <h3 class="game-card-title">theHunter: Call of the Wild</h3>
           </div>
           <div class="card-footer">
-            <div class="game-card-newprice">7.49</div>
-            <div class="game-card-oriprice">14.99</div>
-            <div class="game-card-discount">50% OFF</div>
-          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/battle-chasers-nightwar/BNVPW9NHWNM5" title="https://www.microsoft.com/en-us/p/battle-chasers-nightwar/BNVPW9NHWNM5" target="_blank">
-          <div class="card-body">
-            <h3 class="game-card-title">Battle Chasers: Nightwar</h3>
-          </div>
-          <div class="card-footer">
-            <div class="game-card-newprice">7.49</div>
+            <div class="game-card-newprice">17.99</div>
             <div class="game-card-oriprice">29.99</div>
-            <div class="game-card-discount">75% OFF</div>
+            <div class="game-card-discount">40% OFF</div>
           </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.xbox.com/en-us/games/minecraft-xbox-one-edition" title="https://www.xbox.com/en-us/games/minecraft-xbox-one-edition" target="_blank">
           <div class="card-body">
             <h3 class="game-card-title">Minecraft</h3>
@@ -542,6 +590,102 @@
             <div class="game-card-newprice">9.99</div>
             <div class="game-card-oriprice">19.99</div>
             <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/ark-survival-evolved/BNBLC4ZGFNKB" title="https://www.microsoft.com/en-us/p/ark-survival-evolved/BNBLC4ZGFNKB" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">ARK: Survival Evolved</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">19.99</div>
+            <div class="game-card-oriprice">49.99</div>
+            <div class="game-card-discount">60% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/tacoma/9P4WKZXWP1QW" title="https://www.microsoft.com/en-us/p/tacoma/9P4WKZXWP1QW" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Tacoma</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">5.99</div>
+            <div class="game-card-oriprice">19.99</div>
+            <div class="game-card-discount">70% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/the-long-dark/C41ZDFQ82M1G" title="https://www.microsoft.com/en-us/p/the-long-dark/C41ZDFQ82M1G" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">The Long Dark</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">14.99</div>
+            <div class="game-card-oriprice">29.99</div>
+            <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/slime-rancher/C2NC88M7NWZ1" title="https://www.microsoft.com/en-us/p/slime-rancher/C2NC88M7NWZ1" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Slime Rancher</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">9.99</div>
+            <div class="game-card-oriprice">19.99</div>
+            <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/what-remains-of-edith-finch/BSLGLG8P9T01" title="https://www.microsoft.com/en-us/p/what-remains-of-edith-finch/BSLGLG8P9T01" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">What Remains of Edith Finch</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">9.99</div>
+            <div class="game-card-oriprice">19.99</div>
+            <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/tango-fiesta/BXCGZFRKJWQN" title="https://www.microsoft.com/en-us/p/tango-fiesta/BXCGZFRKJWQN" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Tango Fiesta</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">1.49</div>
+            <div class="game-card-oriprice">9.99</div>
+            <div class="game-card-discount">85% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/cities-skylines---xbox-one-edition/C4GH8N6ZXG5L" title="https://www.microsoft.com/en-us/p/cities-skylines---xbox-one-edition/C4GH8N6ZXG5L" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Cities: Skylines - Xbox One Edition</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">9.99</div>
+            <div class="game-card-oriprice">39.99</div>
+            <div class="game-card-discount">75% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/verdun/C1N8H8WTPDSC" title="https://www.microsoft.com/en-us/p/verdun/C1N8H8WTPDSC" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Verdun</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">9.99</div>
+            <div class="game-card-oriprice">19.99</div>
+            <div class="game-card-discount">50% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/rwby-grimm-eclipse/BQBC0WHWX9J3" title="https://www.microsoft.com/en-us/p/rwby-grimm-eclipse/BQBC0WHWX9J3" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">RWBY: Grimm Eclipse</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">7.99</div>
+            <div class="game-card-oriprice">19.99</div>
+            <div class="game-card-discount">60% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/sky-force-anniversary/BT8CSKSR2L49" title="https://www.microsoft.com/en-us/p/sky-force-anniversary/BT8CSKSR2L49" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Sky Force Anniversary</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">3.99</div>
+            <div class="game-card-oriprice">9.99</div>
+            <div class="game-card-discount">60% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/light--dark-bundle/BZ6PS8TDB5QF" title="https://www.microsoft.com/en-us/p/light--dark-bundle/BZ6PS8TDB5QF" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Light &amp; Dark Bundle</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">22.49</div>
+            <div class="game-card-oriprice">29.99</div>
+            <div class="game-card-discount">25% OFF</div>
+          </div></a><a href="https://microsoft.msafflnk.net/c/1272791/433017/7593?subId1=xboxlive&amp;u=https://www.microsoft.com/en-us/p/firewatch/BQQKG9H2STC0" title="https://www.microsoft.com/en-us/p/firewatch/BQQKG9H2STC0" target="_blank">
+          <div class="card-body">
+            <h3 class="game-card-title">Firewatch</h3>
+          </div>
+          <div class="card-footer">
+            <div class="game-card-newprice">6.59</div>
+            <div class="game-card-oriprice">19.99</div>
+            <div class="game-card-discount">67% OFF</div>
           </div></a>]]> 
       </description>
     </item>
